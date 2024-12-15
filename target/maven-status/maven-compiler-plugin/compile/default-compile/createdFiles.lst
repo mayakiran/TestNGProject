@@ -1,0 +1,4 @@
+com\training\base\BasePage.class
+com\training\base\BaseTest.class
+com\training\utilities\screenshots.class
+com\training\utilities\PropertiesReader.class
